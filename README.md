@@ -1,2 +1,2 @@
 # Parking-record-system-
-This is a basic cpp project that helps store the parking records of a mall. It records the number of vehicles entered the parking record, stored and exited. 
+Introducing our Parking Record System implemented in C++, a versatile and efficient solution for managing parking facilities. This project offers a user-friendly console-based interface that allows users to record and track parking activities seamlessly. With features such as entry and exit timestamp recording, vehicle identification, and parking space management, this C++ application is designed to streamline the parking management process.
